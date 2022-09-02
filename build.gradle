@@ -47,7 +47,7 @@ dependencies {
 	implementation gradleApi()
 	implementation localGroovy()
 
-	implementation group: 'org.jsweet', name: 'jsweet-transpiler', version: project.version
+	implementation group: 'org.jsweet', name: 'jsweet-transpiler', version: '3.2.0-SNAPSHOT'
 	implementation group: 'org.codehaus.plexus', name: 'plexus-utils', version:'3.0.20'
 }
 
